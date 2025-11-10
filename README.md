@@ -52,7 +52,7 @@ ShopNest/
 ├── package.json
 └── README.md
 ```
-Used Context API:
+## Used Context API:
 The Context API serves as the backbone of state management in this project. It allows seamless data sharing across components without the need for prop drilling, ensuring clean, scalable, and maintainable code.
 
 🧠 Why Context API?
@@ -95,5 +95,4 @@ Once the server starts, open the link shown in the terminal — usually:
 http://localhost:5173/
 ```
 
-## 🗂️ Folder Structure
 
