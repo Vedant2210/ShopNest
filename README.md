@@ -77,6 +77,10 @@ Make sure you have Node.js and npm installed.
 Then run:
 ```
 npm install
+npm install react-router-dom
+npm install react-toastify
+npm install tailwindcss postcss autoprefixer
+npm install @tailwindcss/vite
 ```
 4️⃣ Run the Development Server
 ```
