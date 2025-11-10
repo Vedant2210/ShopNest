@@ -2,7 +2,7 @@
 
 ShopNest is a modern, responsive e-commerce frontend built with **React**, **Tailwind CSS**, and **React Context API**.  
 It allows users to browse products, add them to the cart, modify quantities dynamically, and view the total price — all with a clean UI and smooth interactions.
-
+Check Out At- https://shop-nest-ebon-five.vercel.app/
 ---
 
 ## 🚀 Features
